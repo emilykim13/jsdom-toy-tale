@@ -43,7 +43,7 @@ After all of that, the toy card should resemble:
   </div>
 ```
 
-## Add a New Toy
+## Add a New Toy 
 
 When a user submits the toy form, two things should happen:
 
